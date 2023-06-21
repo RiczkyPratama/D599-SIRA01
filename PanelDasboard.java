@@ -7,8 +7,8 @@ import javax.swing.SwingUtilities;
 
 
 /**
- *
- * @author furat
+ * @author RICZKY PRATAMA || TECH ENTHUSIAST || SILVER_RABBITKU aka SIRA || Medium.com/@furatamarizuki
+ * Codingan ini memiliki lisensi dan mengambil tanpa seizin pemilik akan ada konsekuensinya, terima kasih!
  */
 public class PanelDasboard extends javax.swing.JPanel {
     private Container panelstruk;
